@@ -1,0 +1,21 @@
+# 忽略构建文件夹
+build/
+install/
+log/
+src/*/build/
+src/*/install/
+src/*/log/
+
+# 忽略CMake生成的文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# 忽略临时文件
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
