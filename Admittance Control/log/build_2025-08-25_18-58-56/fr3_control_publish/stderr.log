@@ -1,0 +1,4 @@
+[31mCMake Error at CMakeLists.txt:103 (install):
+  install TARGETS given target "ee_pose_bridge" which does not exist.
+
+[0m

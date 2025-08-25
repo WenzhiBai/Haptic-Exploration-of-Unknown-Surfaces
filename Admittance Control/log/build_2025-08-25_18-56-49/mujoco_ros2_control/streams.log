@@ -1,0 +1,81 @@
+[0.027s] Invoking command in '/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/build/mujoco_ros2_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_perception_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_common_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/control_pkg:/opt/ros/humble /usr/bin/cmake /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control -DCMAKE_INSTALL_PREFIX=/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control
+[0.141s] -- The C compiler identification is GNU 11.4.0
+[0.216s] -- The CXX compiler identification is GNU 11.4.0
+[0.228s] -- Detecting C compiler ABI info
+[0.327s] -- Detecting C compiler ABI info - done
+[0.337s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.338s] -- Detecting C compile features
+[0.338s] -- Detecting C compile features - done
+[0.343s] -- Detecting CXX compiler ABI info
+[0.437s] -- Detecting CXX compiler ABI info - done
+[0.449s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.449s] -- Detecting CXX compile features
+[0.450s] -- Detecting CXX compile features - done
+[0.489s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.995s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.213s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[1.302s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.318s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.339s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.355s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.374s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.467s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.473s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.606s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.640s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.690s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.706s] -- Looking for pthread.h
+[1.796s] -- Looking for pthread.h - found
+[1.797s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.910s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.910s] -- Found Threads: TRUE  
+[2.008s] -- Found hardware_interface: 2.48.0 (/opt/ros/humble/share/hardware_interface/cmake)
+[2.290s] -- Found controller_manager: 2.48.0 (/opt/ros/humble/share/controller_manager/cmake)
+[2.357s] -- Found joint_limits: 2.48.0 (/opt/ros/humble/share/joint_limits/cmake)
+[2.365s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[2.436s] -- Found control_toolbox: 3.6.0 (/opt/ros/humble/share/control_toolbox/cmake)
+[2.561s] -- Mujoco build from source has not been found. Attempting to find the binary in /home/mscrobotics2425laptop16/mujoco/mujoco-install instead.
+[2.874s] -- Configuring done
+[3.041s] -- Generating done
+[3.070s] -- Build files have been written to: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/build/mujoco_ros2_control
+[3.095s] Invoked command in '/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/build/mujoco_ros2_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_perception_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_common_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/control_pkg:/opt/ros/humble /usr/bin/cmake /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control -DCMAKE_INSTALL_PREFIX=/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control
+[3.099s] Invoking command in '/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/build/mujoco_ros2_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_perception_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_common_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/build/mujoco_ros2_control -- -j12 -l12
+[3.198s] [ 16%] [32mBuilding CXX object CMakeFiles/mujoco_system_plugins.dir/src/mujoco_system.cpp.o[0m
+[3.198s] [ 50%] [32mBuilding CXX object CMakeFiles/mujoco_ros2_control.dir/src/mujoco_ros2_control.cpp.o[0m
+[3.199s] [ 50%] [32mBuilding CXX object CMakeFiles/mujoco_ros2_control.dir/src/mujoco_ros2_control_node.cpp.o[0m
+[3.201s] [ 66%] [32mBuilding CXX object CMakeFiles/mujoco_ros2_control.dir/src/mujoco_rendering.cpp.o[0m
+[9.062s] [01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control/src/mujoco_rendering.cpp:[m[K In member function ‘[01m[Kvoid mujoco_ros2_control::MujocoRendering::keyboard_callback_impl(GLFWwindow*, int, int, int, int)[m[K’:
+[9.063s] [01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control/src/mujoco_rendering.cpp:138:15:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kwindow[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[9.063s]   138 |   [01;35m[KGLFWwindow *window[m[K, int key, int scancode, int act, int mods)
+[9.063s]       |   [01;35m[K~~~~~~~~~~~~^~~~~~[m[K
+[9.063s] [01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control/src/mujoco_rendering.cpp:138:36:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kscancode[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[9.064s]   138 |   GLFWwindow *window, int key, [01;35m[Kint scancode[m[K, int act, int mods)
+[9.064s]       |                                [01;35m[K~~~~^~~~~~~~[m[K
+[9.064s] [01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control/src/mujoco_rendering.cpp:138:59:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmods[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[9.064s]   138 |   GLFWwindow *window, int key, int scancode, int act, [01;35m[Kint mods[m[K)
+[9.064s]       |                                                       [01;35m[K~~~~^~~~[m[K
+[9.066s] [01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control/src/mujoco_rendering.cpp:[m[K In member function ‘[01m[Kvoid mujoco_ros2_control::MujocoRendering::mouse_button_callback_impl(GLFWwindow*, int, int, int)[m[K’:
+[9.066s] [01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control/src/mujoco_rendering.cpp:148:74:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kbutton[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[9.067s]   148 | void MujocoRendering::mouse_button_callback_impl(GLFWwindow *window, [01;35m[Kint button[m[K, int act, int mods)
+[9.067s]       |                                                                      [01;35m[K~~~~^~~~~~[m[K
+[9.067s] [01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control/src/mujoco_rendering.cpp:148:86:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kact[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[9.067s]   148 | void MujocoRendering::mouse_button_callback_impl(GLFWwindow *window, int button, [01;35m[Kint act[m[K, int mods)
+[9.067s]       |                                                                                  [01;35m[K~~~~^~~[m[K
+[9.069s] [01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control/src/mujoco_rendering.cpp:148:95:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmods[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[9.069s]   148 | void MujocoRendering::mouse_button_callback_impl(GLFWwindow *window, int button, int act, [01;35m[Kint mods[m[K)
+[9.069s]       |                                                                                           [01;35m[K~~~~^~~~[m[K
+[9.070s] [01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control/src/mujoco_rendering.cpp:[m[K In member function ‘[01m[Kvoid mujoco_ros2_control::MujocoRendering::scroll_callback_impl(GLFWwindow*, double, double)[m[K’:
+[9.070s] [01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control/src/mujoco_rendering.cpp:201:56:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kwindow[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[9.070s]   201 | void MujocoRendering::scroll_callback_impl([01;35m[KGLFWwindow *window[m[K, double xoffset, double yoffset)
+[9.070s]       |                                            [01;35m[K~~~~~~~~~~~~^~~~~~[m[K
+[9.070s] [01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control/src/mujoco_rendering.cpp:201:71:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kxoffset[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[9.070s]   201 | void MujocoRendering::scroll_callback_impl(GLFWwindow *window, [01;35m[Kdouble xoffset[m[K, double yoffset)
+[9.070s]       |                                                                [01;35m[K~~~~~~~^~~~~~~[m[K
+[12.270s] [01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control/src/mujoco_ros2_control_node.cpp:[m[K In function ‘[01m[Kint main(int, const char**)[m[K’:
+[12.270s] [01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control/src/mujoco_ros2_control_node.cpp:222:18:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Ktangential_force[m[K’ set but not used [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-but-set-variable-Wunused-but-set-variable]8;;[m[K]
+[12.270s]   222 |           double [01;35m[Ktangential_force[m[K = 0.0;
+[12.270s]       |                  [01;35m[K^~~~~~~~~~~~~~~~[m[K
+[12.618s] [ 83%] [32m[1mLinking CXX shared library libmujoco_system_plugins.so[0m
+[12.824s] [ 83%] Built target mujoco_system_plugins
+[14.846s] [100%] [32m[1mLinking CXX executable mujoco_ros2_control[0m
+[15.192s] [100%] Built target mujoco_ros2_control

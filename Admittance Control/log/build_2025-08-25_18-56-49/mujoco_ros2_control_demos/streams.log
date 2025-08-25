@@ -1,0 +1,56 @@
+[0.025s] Invoking command in '/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/build/mujoco_ros2_control_demos': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_perception_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_common_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/control_pkg:/opt/ros/humble /usr/bin/cmake /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control_demos -DCMAKE_INSTALL_PREFIX=/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control_demos
+[0.129s] -- The C compiler identification is GNU 11.4.0
+[0.193s] -- The CXX compiler identification is GNU 11.4.0
+[0.212s] -- Detecting C compiler ABI info
+[0.311s] -- Detecting C compiler ABI info - done
+[0.320s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.320s] -- Detecting C compile features
+[0.321s] -- Detecting C compile features - done
+[0.326s] -- Detecting CXX compiler ABI info
+[0.443s] -- Detecting CXX compiler ABI info - done
+[0.455s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.455s] -- Detecting CXX compile features
+[0.456s] -- Detecting CXX compile features - done
+[0.479s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.048s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.205s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[1.292s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.305s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.318s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.341s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.360s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.462s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.471s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.587s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.634s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.687s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.705s] -- Looking for pthread.h
+[1.817s] -- Looking for pthread.h - found
+[1.817s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.926s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.927s] -- Found Threads: TRUE  
+[1.999s] -- Found rclcpp_action: 16.0.11 (/opt/ros/humble/share/rclcpp_action/cmake)
+[2.072s] -- Found control_msgs: 4.8.0 (/opt/ros/humble/share/control_msgs/cmake)
+[2.249s] -- Configuring done
+[2.287s] -- Generating done
+[2.306s] -- Build files have been written to: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/build/mujoco_ros2_control_demos
+[2.320s] Invoked command in '/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/build/mujoco_ros2_control_demos' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_perception_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_common_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/control_pkg:/opt/ros/humble /usr/bin/cmake /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/mujoco_ros2_control/mujoco_ros2_control_demos -DCMAKE_INSTALL_PREFIX=/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control_demos
+[2.323s] Invoking command in '/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/build/mujoco_ros2_control_demos': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_xs_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_perception_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/interbotix_common_modules:/home/mscrobotics2425laptop16/interbotix_ws/install/control_pkg:/opt/ros/humble /usr/bin/cmake --build /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/build/mujoco_ros2_control_demos -- -j12 -l12
+[2.391s] [  8%] [32mBuilding CXX object CMakeFiles/example_effort.dir/examples/example_effort.cpp.o[0m
+[2.396s] [ 16%] [32mBuilding CXX object CMakeFiles/example_diff_drive.dir/examples/example_diff_drive.cpp.o[0m
+[2.402s] [ 33%] [32mBuilding CXX object CMakeFiles/example_position.dir/examples/example_position.cpp.o[0m
+[2.402s] [ 33%] [32mBuilding CXX object CMakeFiles/example_velocity.dir/examples/example_velocity.cpp.o[0m
+[2.402s] [ 41%] [32mBuilding CXX object CMakeFiles/example_gripper.dir/examples/example_gripper.cpp.o[0m
+[2.407s] [ 50%] [32mBuilding CXX object CMakeFiles/example_tricycle_drive.dir/examples/example_tricycle_drive.cpp.o[0m
+[10.464s] [ 58%] [32m[1mLinking CXX executable example_diff_drive[0m
+[10.933s] [ 66%] [32m[1mLinking CXX executable example_effort[0m
+[10.982s] [ 66%] Built target example_diff_drive
+[11.241s] [ 75%] [32m[1mLinking CXX executable example_velocity[0m
+[11.353s] [ 75%] Built target example_effort
+[11.370s] [ 83%] [32m[1mLinking CXX executable example_tricycle_drive[0m
+[11.570s] [ 83%] Built target example_velocity
+[11.605s] [ 91%] [32m[1mLinking CXX executable example_gripper[0m
+[11.748s] [ 91%] Built target example_tricycle_drive
+[11.889s] [ 91%] Built target example_gripper
+[12.040s] [100%] [32m[1mLinking CXX executable example_position[0m
+[12.221s] [100%] Built target example_position

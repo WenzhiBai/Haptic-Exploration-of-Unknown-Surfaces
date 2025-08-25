@@ -1,0 +1,26 @@
+[35m[1mConsolidate compiler generated dependencies of target mujoco_system_plugins[0m
+[35m[1mConsolidate compiler generated dependencies of target mujoco_ros2_control[0m
+[ 33%] Built target mujoco_system_plugins
+[100%] Built target mujoco_ros2_control
+-- Install configuration: ""
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/lib/libmujoco_system_plugins.so
+-- Set runtime path of "/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/lib/libmujoco_system_plugins.so" to "/opt/ros/humble/lib:/home/mscrobotics2425laptop16/mujoco/mujoco-install/lib:/opt/ros/humble/lib/x86_64-linux-gnu"
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/lib/mujoco_ros2_control/mujoco_ros2_control
+-- Set runtime path of "/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/lib/mujoco_ros2_control/mujoco_ros2_control" to "/opt/ros/humble/lib:/home/mscrobotics2425laptop16/mujoco/mujoco-install/lib:/opt/ros/humble/lib/x86_64-linux-gnu"
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/mujoco_ros2_control/mujoco_system_plugins.xml
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/ament_index/resource_index/package_run_dependencies/mujoco_ros2_control
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/ament_index/resource_index/parent_prefix_path/mujoco_ros2_control
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/mujoco_ros2_control/environment/ament_prefix_path.sh
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/mujoco_ros2_control/environment/ament_prefix_path.dsv
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/mujoco_ros2_control/environment/path.sh
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/mujoco_ros2_control/environment/path.dsv
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/mujoco_ros2_control/local_setup.bash
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/mujoco_ros2_control/local_setup.sh
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/mujoco_ros2_control/local_setup.zsh
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/mujoco_ros2_control/local_setup.dsv
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/mujoco_ros2_control/package.dsv
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/ament_index/resource_index/packages/mujoco_ros2_control
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/ament_index/resource_index/mujoco_ros2_control__pluginlib__plugin/mujoco_ros2_control
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/mujoco_ros2_control/cmake/mujoco_ros2_controlConfig.cmake
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/mujoco_ros2_control/cmake/mujoco_ros2_controlConfig-version.cmake
+-- Installing: /home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/install/mujoco_ros2_control/share/mujoco_ros2_control/package.xml

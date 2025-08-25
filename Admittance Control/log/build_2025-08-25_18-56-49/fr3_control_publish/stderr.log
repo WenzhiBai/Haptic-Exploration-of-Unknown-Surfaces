@@ -1,0 +1,53 @@
+[31mCMake Error at CMakeLists.txt:89 (add_executable):
+  Cannot find source file:
+
+    src/force_position_controller.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+
+[0m
+[31mCMake Error at CMakeLists.txt:95 (add_executable):
+  Cannot find source file:
+
+    src/TangentialVelocityController.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+
+[0m
+[31mCMake Error at CMakeLists.txt:103 (add_executable):
+  Cannot find source file:
+
+    src/HybridForceLyapunovController.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+
+[0m
+[31mCMake Error at CMakeLists.txt:117 (add_executable):
+  Cannot find source file:
+
+    src/mujoco_sim_node.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h
+  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc
+
+[0m
+[31mCMake Error at CMakeLists.txt:89 (add_executable):
+  No SOURCES given to target: force_position_controller
+
+[0m
+[31mCMake Error at CMakeLists.txt:95 (add_executable):
+  No SOURCES given to target: tangential_velocity_controller
+
+[0m
+[31mCMake Error at CMakeLists.txt:103 (add_executable):
+  No SOURCES given to target: hybridforcelyapunovcontroller
+
+[0m
+[31mCMake Error at CMakeLists.txt:117 (add_executable):
+  No SOURCES given to target: mujoco_sim_node
+
+[0m
+[0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m

@@ -1,0 +1,4 @@
+[01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/fr3_control_publish/src/HybridForceTangentialController.cpp:[m[K In member function ‘[01m[Kvoid HybridForceTangentialController::control_loop()[m[K’:
+[01m[K/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/fr3_control_publish/src/HybridForceTangentialController.cpp:1004:23:[m[K [01;35m[Kwarning: [m[Kvariable ‘[01m[Kpos_error[m[K’ set but not used [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-but-set-variable-Wunused-but-set-variable]8;;[m[K]
+ 1004 |       Eigen::Vector3d [01;35m[Kpos_error[m[K = advance_target_ - ee_pos_;
+      |                       [01;35m[K^~~~~~~~~[m[K

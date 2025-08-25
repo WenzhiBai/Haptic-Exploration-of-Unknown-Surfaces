@@ -1,0 +1,269 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-e8bdabb338d547c9da20.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				},
+				{
+					"build" : "fr3_control_publish__py",
+					"jsonFile" : "directory-fr3_control_publish__py-7cb68cce9b071a02066e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/build/fr3_control_publish/fr3_control_publish__py",
+					"targetIndexes" : 
+					[
+						6
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "fr3_control_publish",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_fr3_control_publish_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_fr3_control_publish_egg-1acc17aa376c3c2fe27b.json",
+					"name" : "ament_cmake_python_build_fr3_control_publish_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_fr3_control_publish::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_fr3_control_publish-faf4cb3b84b687f24b04.json",
+					"name" : "ament_cmake_python_copy_fr3_control_publish",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "contact_point_recorder::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-contact_point_recorder-ccf289bbc269e412c936.json",
+					"name" : "contact_point_recorder",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ee_pose_bridge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ee_pose_bridge-996cd2d5e9d8b9f05d8c.json",
+					"name" : "ee_pose_bridge",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fr3_control_publish::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fr3_control_publish-22315a5a664d3cbf2227.json",
+					"name" : "fr3_control_publish",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fr3_control_publish__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fr3_control_publish__cpp-9163e70330801c567807.json",
+					"name" : "fr3_control_publish__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "fr3_control_publish__py::@97202b25d90c350198ea",
+					"jsonFile" : "target-fr3_control_publish__py-fef67fbf529e9f0f26b0.json",
+					"name" : "fr3_control_publish__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fr3_control_publish__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fr3_control_publish__rosidl_generator_c-cc46e0818105a419b1d7.json",
+					"name" : "fr3_control_publish__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fr3_control_publish__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fr3_control_publish__rosidl_generator_py-aafc507f201e3242a4e3.json",
+					"name" : "fr3_control_publish__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fr3_control_publish__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fr3_control_publish__rosidl_typesupport_c-6406968997a95c58f453.json",
+					"name" : "fr3_control_publish__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fr3_control_publish__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fr3_control_publish__rosidl_typesupport_c__pyext-96beb28858d7611f5f22.json",
+					"name" : "fr3_control_publish__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fr3_control_publish__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fr3_control_publish__rosidl_typesupport_cpp-8da743a725ce67f6a4e0.json",
+					"name" : "fr3_control_publish__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fr3_control_publish__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fr3_control_publish__rosidl_typesupport_fastrtps_c-eb926b1efff1ffa9ea92.json",
+					"name" : "fr3_control_publish__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fr3_control_publish__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fr3_control_publish__rosidl_typesupport_fastrtps_c__pyext-62735ab0599980229fe4.json",
+					"name" : "fr3_control_publish__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fr3_control_publish__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fr3_control_publish__rosidl_typesupport_fastrtps_cpp-6652e3e8660ab8aa4b84.json",
+					"name" : "fr3_control_publish__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fr3_control_publish__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fr3_control_publish__rosidl_typesupport_introspection_c-6a207f94ccc7ac6d1ae0.json",
+					"name" : "fr3_control_publish__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fr3_control_publish__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fr3_control_publish__rosidl_typesupport_introspection_c__pyext-5644351fceecc61164bb.json",
+					"name" : "fr3_control_publish__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fr3_control_publish__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fr3_control_publish__rosidl_typesupport_introspection_cpp-67763b4d17353f2d337c.json",
+					"name" : "fr3_control_publish__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fr3_control_publish_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fr3_control_publish_uninstall-f1eae7355c8d05107fb9.json",
+					"name" : "fr3_control_publish_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hybridforcetangentialcontroller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hybridforcetangentialcontroller-049059ede207d026235b.json",
+					"name" : "hybridforcetangentialcontroller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jacobian_publisher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jacobian_publisher-0ec1046e8ccad0e11a04.json",
+					"name" : "jacobian_publisher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-f60f5f8a0cda50b8b365.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/build/fr3_control_publish",
+		"source" : "/home/mscrobotics2425laptop16/Haptic-Exploration-of-Unknown-Surfaces/Admittance Control/src/fr3_control_publish"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
