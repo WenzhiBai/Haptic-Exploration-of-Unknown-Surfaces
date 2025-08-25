@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Impedance Control
 This folder contains code for implementations of impedance control. Please update this README with an introduction to your implementations, including code structure, usage instructions, and running examples.
 =======
@@ -74,5 +73,4 @@ echo $ROS_DISTRO
 echo $MUJOCO_DIR
 echo $LD_LIBRARY_PATH
 ```
-
 
