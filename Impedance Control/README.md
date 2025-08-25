@@ -1,7 +1,5 @@
 # Impedance Control
-This folder contains code for implementations of impedance control. Please update this README with an introduction to your implementations, including code structure, usage instructions, and running examples.
-=======
-Haptic exploration of the FR3 robot using impedance control.
+
 
 ## 1. Environment
 
